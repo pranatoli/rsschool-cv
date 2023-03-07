@@ -19,3 +19,6 @@ My motto: Live and learn.
 * Graduated from college with a degree in information technology software
 * RSSchool 2022Q2 certificate
 
+## Goals
+* get a developer job and enjoy
+
